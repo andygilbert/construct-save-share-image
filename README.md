@@ -19,4 +19,4 @@ Only Native iOS and Android builds. It does not work for HTML5 web builds.
 **Tel Number** = *Any telephone number to pre-fill telephone nuber input box*
 
 ## Supported Runtimes
-Currently only C2 Runtime is supported, I have C3 runtime code in place but it is not working so I have disabled spport for C3 until further notice.
+Currently only C2 Runtime is supported, C3 runtime code is in place but is not currently working so I have disabled spport for C3 until further notice.
