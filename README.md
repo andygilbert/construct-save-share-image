@@ -16,5 +16,5 @@ Only Native iOS and Android builds. It does not work for HTML5 web builds.
 
 **Filename** = *remote URL or CanvasSnapShot.*
 
-**Tel Number** = *Any telephone number to pre-fil telephone nuber input box*
+**Tel Number** = *Any telephone number to pre-fill telephone nuber input box*
 
