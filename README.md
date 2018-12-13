@@ -9,12 +9,12 @@ Only Native iOS and Android builds. It does not work for HTML5 web builds.
 
 ## Actions
 #### Save Image (Filename) 
-Filename = remote URL or CanvasSnapShot
+**Filename** = *remote URL or CanvasSnapShot*
 
 #### Share file Via SMS (Message,Filename, Tel Number) 
-Message = Any text to pre-fill text message input box
+**Message** = *Any text to pre-fill text message input box*
 
-Filename = remote URL or CanvasSnapShot.
+**Filename** = *remote URL or CanvasSnapShot.*
 
-Tel Number = Any telephone number to pre-fil telephone nuber input box
+**Tel Number** = *Any telephone number to pre-fil telephone nuber input box*
 
