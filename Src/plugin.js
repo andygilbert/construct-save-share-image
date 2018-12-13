@@ -32,7 +32,7 @@
 			this._info.SetIsSingleGlobal(true);
 			
 			// Support both the C2 and C3 runtimes
-			this._info.SetSupportedRuntimes(["c2", "c3"]);
+			this._info.SetSupportedRuntimes(["c2"]);
             
 			this._info.AddCordovaPluginReference({
 				id: "cordova-plugin-x-socialsharing"
