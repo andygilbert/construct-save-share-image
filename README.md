@@ -8,10 +8,10 @@ The official plugin currently only allows to share text and URL links due to com
 Only Native iOS and Android builds. It does not work for HTML5 web builds. 
 
 ## Actions
-#### Save Image (Filename) 
+### Save Image (Filename) 
 **Filename** = *remote URL or CanvasSnapShot*
 
-#### Share file Via SMS (Message,Filename, Tel Number) 
+### Share file Via SMS (Message,Filename, Tel Number) 
 **Message** = *Any text to pre-fill text message input box*
 
 **Filename** = *remote URL or CanvasSnapShot.*
