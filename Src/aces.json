@@ -1,0 +1,25 @@
+{
+	"imagesavesharesms": {
+		"conditions": [
+		],
+		"actions": [
+            {
+				"id": "share-sms",
+				"scriptName": "ShareViaSMS",
+				"params": [
+					{ "id": "text", "type": "string" },
+                    { "id": "file", "type": "string" },
+                    { "id": "number", "type": "string" }
+				]
+			},
+            {
+				"id": "save-image",
+				"scriptName": "SaveImage",
+				"params": [
+					{ "id": "url", "type": "string" }
+				]
+			}
+		],
+		"expressions": []
+	}
+}

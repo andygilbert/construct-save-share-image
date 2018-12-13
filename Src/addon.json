@@ -1,0 +1,32 @@
+﻿{
+	"is-c3-addon": true,
+	"type": "plugin",
+	"name": "Save & Share SMS Image",
+	"id": "ImageSaveShareSMS",
+	"version": "1.0.0.0",
+	"author": "Gibbon - Andy Gilbert",
+	"website": "https://github.com/andygilbert/construct-save-share-image",
+	"documentation": "https://github.com/andygilbert/construct-save-share-image",
+	"description": "Image Save and share plugin for Construct",
+	"editor-scripts": [
+						"plugin.js",
+						"type.js",
+						"instance.js"
+					],
+	"file-list": [
+		"c2runtime/runtime.js",
+        "c3runtime/plugin.js",
+		"c3runtime/type.js",
+		"c3runtime/instance.js",
+		"c3runtime/conditions.js",
+		"c3runtime/actions.js",
+		"c3runtime/expressions.js",
+		"lang/en-US.json",
+		"aces.json",
+		"addon.json",
+		"icon.svg",
+		"instance.js",
+		"plugin.js",
+		"type.js"
+	]
+}

@@ -1,0 +1,51 @@
+﻿{
+	"languageTag": "en-US",
+	"fileDescription": "Strings for Social Sharing Plugin.",
+	"text": {
+		"plugins": {
+			"imagesavesharesms": {
+				"name": "Image save and share",
+				"description": "Save images / canvas snapshot and share via SMS",
+				"help-url": "https://www.construct.net",
+				"properties": {},
+				"aceCategories": {
+					"imagesavesharesms": "Image save and share"
+				},
+				"conditions": {},
+				"actions": {
+                    "share-sms": {
+						"list-name": "Share file via SMS",
+						"display-text": "Share Number: {2} Text: {0} file: {1}",
+						"description": "Share a file & message direct to SMS",
+						"params": {
+							"text": {
+								"name": "Message",
+								"desc": "Text to share"
+							},
+							"file": {
+								"name": "File",
+								"desc": "File to share"
+							},
+                            "number": {
+								"name": "Tel Num",
+								"desc": "Phone Number"
+							}
+						}
+					},
+                    "save-image": {
+						"list-name": "Save Image",
+						"display-text": "Save Image: {0}",
+						"description": "Save image to the device photo roll",
+						"params": {
+							"url": {
+								"name": "URL",
+								"desc": "Image URL source"
+							}
+						}
+					}
+				},
+				"expressions": {}
+			}
+		}
+	}
+}
