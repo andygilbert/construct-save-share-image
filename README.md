@@ -13,6 +13,8 @@ Filename = remote URL or CanvasSnapShot
 
 #### Share file Via SMS (Message,Filename, Tel Number) 
 Message = Any text to pre-fill text message input box
+
 Filename = remote URL or CanvasSnapShot.
+
 Tel Number = Any telephone number to pre-fil telephone nuber input box
 
