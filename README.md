@@ -7,7 +7,7 @@ The official plugin currently only allows to share text and URL links due to com
 This plugin is aimed for Native Apps (iOS and Android) that wish to save images to photo roll & share an image via SMS.
 
 ## What builds does this plugin work on?
-Only Native iOS and Android builds. It does not work for HTML5 web builds. 
+Only Native iOS and Android builds. **It does not work for HTML5 web builds**. 
 
 ## Actions
 ### Save Image (Filename) 
