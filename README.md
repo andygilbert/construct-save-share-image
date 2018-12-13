@@ -18,7 +18,7 @@ Only Native iOS and Android builds. **It does not work for HTML5 web builds**.
 
 **Filename** = *remote URL or CanvasSnapShot.*
 
-**Tel Number** = *Any telephone number to pre-fill telephone nuber input box*
+**Tel Number** = *Any telephone number to pre-fill telephone number input box*
 
 ## Supported Runtimes
 Currently only C2 Runtime is supported, C3 runtime code is in place but is not currently working so I have disabled spport for C3 until further notice.
