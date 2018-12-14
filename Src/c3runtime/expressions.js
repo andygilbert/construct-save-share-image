@@ -1,7 +1,7 @@
 "use strict";
 
 {
-	C3.Plugins.CordovaSocialSharing.Exps =
+	C3.Plugins.ImageSaveShareSMS.Exps =
 	{
 		
 	};
