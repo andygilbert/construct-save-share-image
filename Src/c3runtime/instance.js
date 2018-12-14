@@ -1,7 +1,7 @@
 "use strict";
 
 {
-	C3.Plugins.CordovaSocialSharing.Instance = class imageSaveShareSMSInstance extends C3.SDKInstanceBase
+	C3.Plugins.ImageSaveShareSMS.Instance = class ImageSaveShareSMSInstance extends C3.SDKInstanceBase
 	{
 		constructor(inst, properties)
 		{
