@@ -1,7 +1,7 @@
 "use strict";
 
 {
-	C3.Plugins.CordovaSocialSharing.Type = class imageSaveShareSMSType extends C3.SDKTypeBase
+	C3.Plugins.ImageSaveShareSMS.Type = class ImageSaveShareSMSType extends C3.SDKTypeBase
 	{
 		constructor(objectClass)
 		{
