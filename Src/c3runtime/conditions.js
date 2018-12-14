@@ -1,7 +1,7 @@
 "use strict";
 
 {
-	C3.Plugins.CordovaSocialSharing.Cnds =
+	C3.Plugins.ImageSaveShareSMS.Cnds =
 	{
 		
 	};
