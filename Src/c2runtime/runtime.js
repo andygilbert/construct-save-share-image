@@ -1,4 +1,4 @@
-﻿// ECMAScript 5 strict mode
+// ECMAScript 5 strict mode
 "use strict";
 
 assert2(cr, "cr namespace not created");
@@ -6,7 +6,7 @@ assert2(cr.plugins_, "cr.plugins_ not created");
 
 /////////////////////////////////////
 // Plugin class
-cr.plugins_.CordovaSocialSharing = function(runtime)
+cr.plugins_.ImageSaveShareSMS = function(runtime)
 {
 	this.runtime = runtime;
 };
@@ -20,7 +20,7 @@ cr.plugins_.CordovaSocialSharing = function(runtime)
 			window["plugins"]["socialsharing"]["saveToPhotoAlbum"](o);
     }
 	
-	var pluginProto = cr.plugins_.CordovaSocialSharing.prototype;
+	var pluginProto = cr.plugins_.ImageSaveShareSMS.prototype;
 		
 	/////////////////////////////////////
 	// Object type class
@@ -85,7 +85,7 @@ cr.plugins_.CordovaSocialSharing = function(runtime)
         var exists = window["plugins"] && window["plugins"]["socialsharing"] && window["plugins"]["socialsharing"]["shareViaSMS"];
 		if (exists)
 			window["plugins"]["socialsharing"]["shareViaSMS"]({'message':msg, 'subject':'', 'image':file},number);
-    }
+    };
     
     Acts.prototype.SaveImage = function (url)
 	{
