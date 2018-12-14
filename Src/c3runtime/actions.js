@@ -1,7 +1,7 @@
 "use strict";
 
 {
-	C3.Plugins.CordovaSocialSharing.Acts =
+	C3.Plugins.ImageSaveShareSMS.Acts =
 	{
         ShareViaSMS(msg,file,number)
         {
